@@ -79,7 +79,7 @@ module.exports = {
     lastUpdated: '最后更新',
     smoothScroll: true,
     editLinks: true,
-    repo: 'https://github.com/shgopher/GOFamily',
+    repo: 'https://github.com/shgopher/RustFamily/',
     docsBranch: 'release',
     editLinkText: '在GitHub中编辑',
     // 添加导航栏
