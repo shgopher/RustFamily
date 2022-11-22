@@ -18,19 +18,33 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - `好友`, 可以添加作者的微信好友                          
                              
 ## 基础
-- [基础入门](./basic/basic)
-- [所有权]()
-- [借用]()
+- 类型
+- 数据结构
+- 逻辑和判断语句
+- cargo
+- 所有权
+- 借用
 - 内存管理
 - 生命周期
 - 类型系统
-- rust数据结构
 - 错误处理
 - 闭包
 - 泛型
 ## 并发
-- 并发原语
+- Thread
+- Thread Pool
 - async/await
+- synchronization primitives
+- concurrency collections
+- process
+- channel
+- timer/ticker
+- parking_lot
+- crossbeam
+- rayon
+- tokio
+- special
+
 ## 项目实践 
 
 # 扫一扫添加我的公众号，回复 “加群”，可以加入微信群。
