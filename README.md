@@ -72,6 +72,7 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - [Rust 语言圣经](https://course.rs/about-book.html)
 - [Rust 语言实战](https://zh.practice.rs/why-exercise.html)
 - [Rust 秘典](https://nomicon.purewhite.io/)
+- [鸟窝 - rust并发编程](https://github.com/smallnest/concurrency-programming-via-rust)
 
 ## 扫一扫添加我的公众号，回复 “加群”，可以加入微信群。
 
