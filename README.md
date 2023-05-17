@@ -46,24 +46,16 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - special
 ## 编译器
 ## 项目实践 
-## 视频教程
-- [x] [《go语言从入门到实践》](https://github.com/shgopher/bestGO)
-## 系列教程
-- [x] [GOFamily](https://github.com/shgopher/GOFamily/) 一本为go后端程序员打造的教程
-- [x] [RustFamily](https://github.com/shgopher/RustFamily) 一本为rust后端程序员打造的教程
-- [x] [408](https://github.com/shgopher/408/) 一本主要以408知识为主的基础课程
-- [x] [luban](https://github.com/shgopher/luban/) 一本用鲁班的名字命名，主要讲解系统设计的书籍
-- [x] [dingdang](https://github.com/shgopher/dingdang/) 叮当，是一本讲解各种工具的书
-- [x] [god](https://github.com/shgopher/god/) 给程序员写的教程，主要关于学习，副业，买房，面试等内容，程序员才是真神！
-## 作者写的项目
-- [ ] [hui](https://github.com/shgopher/hui) 一个简洁好用效率高的web框架
-- [ ] [zhongli](https://github.com/shgopher/zhongli) 一个高效易用的 rpc 框架
-- [ ] [yelan](https://github.com/shgopher/yelan) 一个利用k8s基本原理去写的区块链服务
-- [ ] [retuo](https://github.com/shgopher/retuo) 一个分布式爬虫服务
-- [ ] [ka](https://github.com/shgopher/ka) 一个效率非常高的秒杀服务
-- [ ] [key](https://github.com/shgopher/key) 一个微服务架构的服务授权系统
-- [x] [short](https://github.com/shgopher/short) 一个简单的短链接服务
-- [ ] [go-short](https://github.com/shgopher/go-short) 一个微服务架构的短链接服务
+## 更多内容
+> 👷 正在施工中...
+
+
+- [GOFamily](https://github.com/shgopher/GOFamily) go 后端程序员宝典：go基础语法，go底层数据结构，go runtime 实现原理，go 并发模式 ，go语言项目经验
+- [408](https://github.com/shgopher/408) 关于408的相关知识，例如算法数据结构，网络，操作系统，数据库等。
+- [luban](https://github.com/shgopher/luban) 系统设计相关内容，例如分布式共识算法，消息队列，容器，RPC 等内容。
+- [dingdang](https://github.com/shgopher/dingdang) 各种工具类的使用，例如 git，正则表达式，ddd，CI/CD 等内容。
+- [god](https://github.com/shgopher/god) 关于程序员自身的一些看法，例如面试经历，赚钱窍门，创业门道，如何向上管理等。
+- [RustFamily](https://github.com/shgopher/RustFamily) rust 基础知识，rust 并发编程，rust 项目实践，rust底层原理。
 
 ## 参考资料
 - [Rust 官方](https://www.rust-lang.org/)
