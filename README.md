@@ -48,15 +48,14 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 ## 项目实践 
 ## 更多内容
 > 👷 正在施工中...
-
-
-- [GOFamily](https://github.com/shgopher/GOFamily) go 后端程序员宝典：go基础语法，go底层数据结构，go runtime 实现原理，go 并发模式 ，go语言项目经验
-- [408](https://github.com/shgopher/408) 关于408的相关知识，例如算法数据结构，网络，操作系统，数据库等。
+- [GOFamily](http://github.com/shgopher/GOFamily) go 程序员宝典，go 基础语法，go 并发编程，go 项目实践，go 底层原理
+- [TSFamily](http://github.com/shgopher/TSFamily) TypeScript 基础语法，Vue ，react ，next.js， nodejs
+- [HarmonyFamily](https://github.com/shgopher/HarmonyFamily) openHarmony 本身及其 App 开发
+- [408](https://github.com/shgopher/408) 关于 408 的相关知识，例如算法数据结构，网络，操作系统，数据库等。
 - [luban](https://github.com/shgopher/luban) 系统设计相关内容，例如分布式共识算法，消息队列，容器，RPC 等内容。
 - [dingdang](https://github.com/shgopher/dingdang) 各种工具类的使用，例如 git，正则表达式，ddd，CI/CD 等内容。
-- [god](https://github.com/shgopher/god) 关于程序员自身的一些看法，例如面试经历，赚钱窍门，创业门道，如何向上管理等。
-- [RustFamily](https://github.com/shgopher/RustFamily) rust 基础知识，rust 并发编程，rust 项目实践，rust底层原理。
-
+- [god](https://github.com/shgopher/god) 关于程序员自身的一些看法，例如面试经历，赚钱窍门，创业门道，如何向上
+管理等。
 ## 参考资料
 - [Rust 官方](https://www.rust-lang.org/)
 - [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/100085301)
@@ -77,3 +76,5 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 ## star
                                                                              
 [![Stargazers over time](https://starchart.cc/shgopher/RustFamily.svg)](https://starchart.cc/shgopher/RustFamily)
+## 证书
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/3.0/">知识共享署名 3.0 未本地化版本许可协议</a>进行许可。
