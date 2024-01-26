@@ -12,12 +12,13 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAIGeO1-kCUelF-G8GW3AvJlrEL7tiO24WHJmnX4nV1bs" target="_blank"><img src="https://img.shields.io/static/v1?label=toutiao&message=%E5%A4%B4%E6%9D%A1&color=red"></a>
 </p>
 
-添加微信公众号：<a href="#wechat.png">科科人神</a>, 回复：
-- `面试题`, 获取经典面试大全。
+添加微信公众号：<a href="#wechat.png">科科人神</a>，回复：
+- `面试题`，获取经典面试大全。
 
-- `好友`, 可以添加作者的微信好友                          
-                             
+- `好友`，可以添加作者的微信好友                          
+  
 ## 基础
+- [hello world](./基础/hello-world/README.md)
 - 类型
 - 数据结构
 - 逻辑和判断语句
@@ -31,8 +32,8 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - 闭包
 - 泛型
 ## 并发
-- Thread
-- Thread Pool
+- [thread](./并发/thread/README.md)
+- thread Pool
 - async/await
 - synchronization primitives
 - concurrency collections
@@ -44,12 +45,22 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - rayon
 - tokio
 - special
+## runtime
+- [gc](./运行时/gc/README.md)
 ## 编译器
-## 项目实践 
+- [rustc frontend](./编译器/rustc_frontend/README.md)
+- llvm
+## 项目实践
+- [编程范式](./项目实践/编程范式/README.md)
+- 最佳实践
+- 测试
+- 动态调试
+- 性能优化
+- rust 面试题
 ## 更多内容
 > 👷 正在施工中...
 - [GOFamily](http://github.com/shgopher/GOFamily) go 程序员宝典，go 基础语法，go 并发编程，go 项目实践，go 底层原理
-- [TSFamily](http://github.com/shgopher/TSFamily) TypeScript 基础语法，Vue ，react ，next.js， nodejs
+- [TSFamily](http://github.com/shgopher/TSFamily) TypeScript 基础语法，Vue，react，next.js，nodejs
 - [HarmonyFamily](https://github.com/shgopher/HarmonyFamily) openHarmony 本身及其 App 开发
 - [408](https://github.com/shgopher/408) 关于 408 的相关知识，例如算法数据结构，网络，操作系统，数据库等。
 - [luban](https://github.com/shgopher/luban) 系统设计相关内容，例如分布式共识算法，消息队列，容器，RPC 等内容。
@@ -60,7 +71,7 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - [Rust 官方](https://www.rust-lang.org/)
 - [Rust 程序设计](https://kaisery.github.io/trpl-zh-cn/)
 - [Rust course](https://course.rs/about-book.html)
-- [鸟窝 - rust并发编程](https://github.com/smallnest/concurrency-programming-via-rust)
+- [鸟窝 - rust 并发编程](https://github.com/smallnest/concurrency-programming-via-rust)
 - [陈天 · Rust 编程第一课](https://time.geekbang.org/column/intro/100085301)
 - [张汉东的 Rust 实战课](https://time.geekbang.org/course/intro/100060601)
 - [Rust 语言实战](https://zh.practice.rs/why-exercise.html)
