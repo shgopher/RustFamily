@@ -1,3 +1,13 @@
+<!--
+ * @Author: shgopher shgopher@gmail.com
+ * @Date: 2024-01-26 17:14:22
+ * @LastEditors: shgopher shgopher@gmail.com
+ * @LastEditTime: 2024-06-09 22:40:05
+ * @FilePath: /RustFamily/README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2024 by shgopher, All Rights Reserved. 
+-->
 <p align="left">
 hey~，我是科科人神，目前就职于国内一家互联网公司，你们可以加我<a href="#wechat.png">微信</a>，交个朋友吧~
 </p>
@@ -49,7 +59,7 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - [gc](./运行时/gc/README.md)
 ## 编译器
 - [rustc frontend](./编译器/rustc_frontend/README.md)
-- llvm
+- llvm 
 ## 项目实践
 - [编程范式](./项目实践/编程范式/README.md)
 - 最佳实践
@@ -76,6 +86,7 @@ hey~，我是科科人神，目前就职于国内一家互联网公司，你们�
 - [张汉东的 Rust 实战课](https://time.geekbang.org/course/intro/100060601)
 - [Rust 语言实战](https://zh.practice.rs/why-exercise.html)
 - [Rust 秘典](https://nomicon.purewhite.io/)
+- [霍丙乾bennyhuo b站](https://space.bilibili.com/28615855/channel/collectiondetail?sid=395051)
 
 
 ## 扫一扫添加我的公众号，回复 “加群”，可以加入微信群。
